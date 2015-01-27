@@ -1,0 +1,10 @@
+{
+	"name": "mata/mata-framework",
+	"description": "MATA Framework",
+	"keywords": ["mata", "framework"],
+	"homepage": "http://mataframework.com",
+	"type": "library",
+	"require": {
+        "php": ">=5.4.0",
+    }
+}
